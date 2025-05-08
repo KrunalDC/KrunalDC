@@ -30,3 +30,7 @@ class Krunal:
 
     def __str__(self):
         return self.name
+
+📫 Let's Connect
+
+📧 krunal.patel74358@gmail.com
