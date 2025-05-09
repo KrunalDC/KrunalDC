@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Krunal Patel
 
-🚀 **Full Stack Developer | AI & Data Enthusiast
+🚀 Full Stack Developer | AI & Data Enthusiast
 
 ```python
 class Krunal:
